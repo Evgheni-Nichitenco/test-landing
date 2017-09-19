@@ -1,0 +1,4 @@
+.idea/
+node_modules/
+non-debug.log
+DS_Store
